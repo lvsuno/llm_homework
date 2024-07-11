@@ -200,7 +200,6 @@ How many completion tokens did you get in response?
 * 904
 * 1204
 
-## Submit the results
+### Answer
 
-* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw2
-* It's possible that your answers won't match exactly. If it's the case, select the closest one.
+See [homework2.ipynb](homework2.ipynb) for the implementation
